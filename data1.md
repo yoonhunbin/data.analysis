@@ -1,3 +1,4 @@
+```
 import matplotlib.pyplot as plt
 
 x_data = [1, 2, 3, 4, 5]
@@ -21,5 +22,5 @@ plt.plot(x_data, y2_data)
 plt.plot(x_data, y3_data)
 
 plt.show()
-
+```
 ![](https://github.com/yoonhunbin/pupyter1/blob/main/download.png?raw=true)

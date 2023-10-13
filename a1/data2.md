@@ -60,4 +60,4 @@ print(temp_data)
 display_chart(temp_data)
 #display_box()
 ```
-![] = 
+![] = https://github.com/yoonhunbin/data.analysis/blob/main/data1.png.png

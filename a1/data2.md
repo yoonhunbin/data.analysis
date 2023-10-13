@@ -1,4 +1,5 @@
 데이터 분석 연습 2
+1904~2022 최고온도
   ```
   import csv
 import random

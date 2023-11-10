@@ -32,4 +32,4 @@ print(f_data)
 
 display_bar_chart(search_text + '성별', m_data, f_data)
 ```
-![] = (https://github.com/yoonhyunbin/data.analysis/blob/main/3.png)
+![](https://github.com/yoonhyunbin/data.analysis/blob/main/3.png)

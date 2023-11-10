@@ -23,4 +23,4 @@ plt.plot(x_data, y3_data)
 
 plt.show()
 ```
-![](https://github.com/yoonhunbin/pupyter1/blob/main/download.png?raw=true)
+![](https://github.com/yoonhyunbin/data.analysis/blob/main/2.png)

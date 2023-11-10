@@ -16,4 +16,4 @@ plt.scatter(data_x, data_y, s=data_s, c=data_s, cmap='jet', alpha=0.5)
 plt.colorbar()
 plt.show()
 ```
-![](https://github.com/yoonhyunbin/data.analysis/blob/main/4.png)
+![](https://github.com/yoonhyunbin/data.analysis/blob/main/5.png)
